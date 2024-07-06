@@ -1,0 +1,53 @@
+e voleur
+e policier
+m
+d voleur
+m
+e paul
+m
+d policier
+d paul
+e voleur
+e policier
+m
+d policier
+d voleur
+e pierre
+e pere
+m
+d pierre
+m
+e mere
+m
+d pere
+m
+d mere
+e voleur
+e policier
+m
+d policier
+d voleur
+e pere
+m
+e mere
+m
+d pere
+m
+e julie
+m
+d mere
+d julie
+e voleur
+e policier
+m
+d policier
+d voleur
+e jeanne
+e policier
+m
+d jeanne
+m
+e voleur
+m
+d policier
+d voleur
